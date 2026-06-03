@@ -28,3 +28,7 @@ This Power BI dashboard analyzes sales performance across regions, products, and
 - Best Performing Region: East
 - Top Selling Product: Mobile
 - Revenue Trend: Increasing month by month
+
+## Dashboard Screenshot
+
+![Dashboard](Dashboard_Screenshottt.png)
