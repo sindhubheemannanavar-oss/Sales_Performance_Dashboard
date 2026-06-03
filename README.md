@@ -1,5 +1,13 @@
 # Sales Performance Dashboard
 
+# Project Overview
+Interactive Sales Performance Dashboard built using Power BI to analyze revenue, orders, products sold, regional performance, and sales trends.
+
+## Dashboard Screenshot
+
+![Dashboard](Dashboard_Screenshottt.png)
+
+# Sales Performance Dashboard
 ## Project Overview
 This Power BI dashboard analyzes sales performance across regions, products, and months.
 
@@ -29,6 +37,4 @@ This Power BI dashboard analyzes sales performance across regions, products, and
 - Top Selling Product: Mobile
 - Revenue Trend: Increasing month by month
 
-## Dashboard Screenshot
 
-![Dashboard](Dashboard_Screenshottt.png)
