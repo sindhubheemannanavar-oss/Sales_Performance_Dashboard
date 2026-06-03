@@ -5,7 +5,7 @@ Interactive Sales Performance Dashboard built using Power BI to analyze revenue,
 
 ## Dashboard Screenshot
 
-![Dashboard](Dashboard_Screenshottt.png)
+![Dashboard](Dashboard_Screenshot.png)
 
 # Sales Performance Dashboard
 ## Project Overview
